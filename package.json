@@ -4,5 +4,12 @@
   "description": "A Roadmap to becoming a World Class Web Developer",
   "main": "index.js",
   "author": "BaffourAduBoampong",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }
