@@ -1,0 +1,8 @@
+{
+  "name": "web-developer-roadmap",
+  "version": "1.0.0",
+  "description": "A Roadmap to becoming a World Class Web Developer",
+  "main": "index.js",
+  "author": "BaffourAduBoampong",
+  "license": "MIT"
+}
