@@ -1,6 +1,6 @@
 module.exports = {
   title: 'AppGharage',
-  description: 'Vue-powered Static Site Generator',
+  description: 'The Curriculum for Web Developers',
   serviceWorker: true,
   themeConfig: {
     repo: 'AppGharage/Curriculum',
