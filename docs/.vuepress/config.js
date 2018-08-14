@@ -12,7 +12,18 @@ module.exports = {
     serviceWorker: {
       updatePopup: true
     },
-    sidebar: 'auto',
+    sidebar:  [
+      {
+        title: 'Main',
+        collapsable: false,
+        children: [
+          '/',
+          '/core/',
+          'frontend/',
+          '/backend/'
+        ]
+      }
+    ],
     displayAllHeaders: true,
     nav: [
       { text: 'Home', link: '/' },
@@ -43,14 +54,6 @@ module.exports = {
               { text: 'Advanced', link: '/backend/beginner' }
             ] 
           },
-        ]
-      },
-      {
-        text: 'Resources',
-        items: [
-          { text: 'Core', link: '/language/chinese' },
-          { text: 'Frontend', link: '/language/chinese' },
-          { text: 'backend', link: '/language/japanese' }
         ]
       },
       { text: 'Visit AppGharage', link: 'https://appgharage.com' }
