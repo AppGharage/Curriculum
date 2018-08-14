@@ -3,10 +3,17 @@ module.exports = {
   description: 'Vue-powered Static Site Generator',
   serviceWorker: true,
   themeConfig: {
+    repo: 'AppGharage/Curriculum',
+    repoLabel: 'Contribute!',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: 'Edit this page on Github!',
+    lastUpdated: 'Last Updated',
     serviceWorker: {
       updatePopup: true
     },
     sidebar: 'auto',
+    displayAllHeaders: true,
     nav: [
       { text: 'Home', link: '/' },
       {
@@ -46,7 +53,6 @@ module.exports = {
           { text: 'backend', link: '/language/japanese' }
         ]
       },
-      { text: 'Project Repo', link: 'https://github.com/AppGharage/Curriculum' },
       { text: 'Visit AppGharage', link: 'https://appgharage.com' }
     ]
   }
