@@ -39,7 +39,7 @@ At this stage, you should focus on building your portfolio.
 
 ## Version Control
 ::: tip
-Learn how to Use a Version control system such as **Git** to keep track of changes in a your projects.
+Learn how to Use a Version control system such as **Git** to keep track of changes in  your projects.
 :::
 * Resources: 
     - [Sample](/#)
