@@ -6,7 +6,7 @@ meta:
   - name: description
     content: The Curriculum for Web Developers
   - name: keywords
-    content: web developer software appgharage
+    content: web developer software | appgharage
 
 home: true
 actionText: Get Started →

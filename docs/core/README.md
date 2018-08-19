@@ -1,6 +1,6 @@
 # Core Curriculum <Badge text="Under Construction" type="warn"/> 
 ::: tip
-You are required to know these irrespective of the track you choose, they are at the core 
+You are required to know these, irrespective of the track you choose; as they are the core 
 of programming.
 :::
 
@@ -16,10 +16,10 @@ projects in this curriculum, you will have the skills to call yourself a World C
 Don’t let the curriculum scare you. You by no means need to understand everything on this curriculum to become a great Web developer. 
 Instead, use these as a starting point to help guide your learning as you go.
 
-Understanding these tools and knowing when to use them is very key to your growth as a Developer
+Understanding these tools and knowing when to use them is very key to your growth as a Developer.
 
-It's advisable to practice what you learn by building mini projects. It doesn't have to be something alot of people will use. 
-At this stage you should focus on building your portifolio.
+It's advisable to practice what you learn by building mini projects. It doesn't have to be something a lot of people will use. 
+At this stage, you should focus on building your portfolio.
 :::
 
 ---
@@ -47,7 +47,7 @@ Learn to Use a Version control system such as **Git** to keep track of changes i
 ::: tip
 Create a profile on **Github**, create and contribute to Open Source Projects.
 Explore under the hood of Open Source Projects. Other code hosting Platforms include
-Bitbucket, Gitlab and etc
+Bitbucket, Gitlab etc
 :::
 * Resources: 
     - [Sample](/#)
