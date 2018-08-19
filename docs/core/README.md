@@ -8,7 +8,7 @@ of programming.
 Want to learn how to develop Web applications? This is a curriculum we at AppGharage have developed to train and vet our developers. If you are 
 confused as to what to learn or how to become a Web Developer, this Curriculum will serve as a guide and would help you not to follow trendy tools and stacks.
 
-The Curriculumn includes projects which would help you validate what you learn. We trully believe should you follow and complete the required 
+The Curriculum includes projects which will help you validate what you learn. We truly believe should you follow and complete the required 
 projects in this curriculum, you will have the skills to call yourself a World Class Web Developer :metal: 
 
 ::: warning IMPORTANT
@@ -17,7 +17,7 @@ Instead, use these as a starting point to help guide your learning as you go.
 
 Understanding these tools and knowing when to use them is very key to your growth as a Developer.
 
-It's advisable to practice what you learn by building mini projects. It doesn't have to be something alot of people will use. 
+It's advisable to practice what you learn by building mini projects. It doesn't have to be something a lot of people will use. 
 At this stage, you should focus on building your portfolio.
 :::
 
