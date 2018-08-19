@@ -2,125 +2,125 @@
 
 ## Pick a Language
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Package Managers
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Standards & best Practices
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Publish a library/Package
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Testing
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Build Something
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Pick a Framework
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Pick a Project 
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## No-SQL Databases
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Caching
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## APIs
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Authentication / Authorization Methodologies
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Message Brokers
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Search
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Design Patterns
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Architectural Patterns
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
-## Domain Driven Desgin
+## Domain Driven Design
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Docker
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Servers
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Web Sockets
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Graph Databases
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
