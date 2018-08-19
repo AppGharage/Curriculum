@@ -133,3 +133,33 @@ all what you have learnt.
 
 * **Projects** <Badge text="Todo" type="tip"/> 
     1. Build an Application which uses eveything you have learnt so far
+
+
+## Testing
+::: warning Ooops
+Cooming soon
+:::
+
+
+## Progressive Web Apps
+::: warning Ooops
+Cooming soon
+:::
+
+
+## Static Typing
+::: warning Ooops
+Cooming soon
+:::
+
+
+## Server Side Rendering
+::: warning Ooops
+Cooming soon
+:::
+
+
+## Functional Programming
+::: warning Ooops
+Cooming soon
+:::

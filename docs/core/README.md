@@ -1,14 +1,15 @@
 # Core Curriculum <Badge text="Under Construction" type="warn"/> 
 ::: tip
-You are required to know these irrespective of the track you choose as they are at the core 
+You are required to know these irrespective of the track you choose, they are at the core 
 of programming.
 :::
 
-## Introduction
-Want to learn how to develop Web applications? This is a curriculum we at AppGharage have developed to train and vet our developers. If you are 
-confused as to what learn or how to become a Web Developer this Curriculum will serve as a guide and will help you not follow trendy tools and stacks.
 
-The Curriculumn includes projects which would help you validate what you learn. We trully believe, should you follow and complete the required 
+## Introduction
+Want to learn how to develop Web applications? This is a curriculum AppGharage has developed to train and vet developers. If you are 
+confused as to what to learn or how to become a Web Developer, this Curriculum should serve as a guide and help you not follow trendy tools and stacks.
+
+The Curriculum includes projects which would help you validate what you learn. We truly believe that should you follow and complete the required 
 projects in this curriculum, you will have the skills to call yourself a World Class Web Developer :metal: 
 
 ::: warning IMPORTANT
@@ -24,9 +25,6 @@ At this stage you should focus on building your portifolio.
 ---
 
 
- 
-
-
 ## Computer Science Basics
 * Resources: 
     - [Sample](/#)
@@ -39,7 +37,7 @@ At this stage you should focus on building your portifolio.
 
 ## Version Control
 ::: tip
-Learn to Use a Version control system such as **Git** to keep track of changes in a your projects
+Learn to Use a Version control system such as **Git** to keep track of changes in your projects
 :::
 * Resources: 
     - [Sample](/#)
@@ -77,7 +75,7 @@ Bitbucket, Gitlab and etc
 
 ## Basic Terminal Usage 
 ::: tip
-It's advisable to run a linux based system or a MAC to get used to the commands 
+It's advisable to run a linux based system or MAC to get used to the commands 
 :::
 * Resources: 
     - [Sample](/#)

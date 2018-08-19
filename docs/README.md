@@ -13,11 +13,11 @@ actionText: Get Started →
 actionLink: /core/
 features:
 - title: The Core 
-  details: Everything under this is essential irrespective of the track you choose you master or learn.
+  details: Everything under this is essential irrespective of the track you choose to master or learn.
 - title: The Frontend Track
-  details: This track teaches you how to build User Interfaces for Applications to interact with the Backend
+  details: Teaches you how to build User Interfaces for Applications to interact with the Backend
 - title: The Backend Track
-  details: This track teaches you how to write application or Business logic for the Frontend 
+  details: This track guides you on how to write Applications or Business logic for the Frontend 
 
 footer: MIT Licensed | Copyright © 2018-present AppGharage
 ---
