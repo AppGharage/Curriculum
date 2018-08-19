@@ -3,7 +3,7 @@
 
 ## Introduction
 > Want to learn how to develop Web applications? This is a curriculum we at AppGharage have developed to train and vet our developers. If you are 
-> consfused as to what learn or how to become a Web Developer this Curriculumn will guide and 
+> confused as to what to learn or how to become a Web Developer, this Curriculum will guide and 
 > not make you follow trendy tools and stacks.
 
 
