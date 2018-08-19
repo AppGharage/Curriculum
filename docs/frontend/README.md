@@ -43,7 +43,7 @@ You may choose to learn Jquery
 
 ## Project - Part 1
 ::: tip
-At this tage you have learnt quite enough to practice and build awesome stuff.  
+At this stage you have learnt quite enough to practice and build awesome stuff.  
 You may choose to build stuff on your own and share with other people or the community you belong to for feedback. 
 You may also look for an Open source Project on Github, clone and redesign the Interface, help them with documentation or comment on their code and Submit a Pull Request. 
 :::
@@ -79,7 +79,7 @@ You may choose to learn either Sass or PostCss or even Less or Stylus. It's reco
 
 ## CSS Frameworks
 ::: tip
-You really don't need to learn but good to know as it
+You really don't need to learn this but it's good to know it as it
 will help you with rapid prototyping and building MVPs. You may choose to 
 learn Bootstrap, Foundation, Semantic-UI or even Bulma
 :::
@@ -132,34 +132,34 @@ all what you have learnt.
 :::
 
 * **Projects** <Badge text="Todo" type="tip"/> 
-    1. Build an Application which uses eveything you have learnt so far
+    1. Build an Application which uses everything you have learnt so far
 
 
 ## Testing
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Progressive Web Apps
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Static Typing
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Server Side Rendering
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
 
 
 ## Functional Programming
 ::: warning Ooops
-Cooming soon
+Coming soon
 :::
