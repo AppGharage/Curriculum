@@ -122,40 +122,51 @@ all what you have learnt.
 :::
 
 * **Projects** <Badge text="Todo" type="tip"/> 
-    1. Build an Application which uses everything you have learnt so far
+    1. Build an Application which uses everything you have learnt so far. Example: A Javascript Library
 
 
-## Pick a Framework
+## Pick a Javascript Framework or Library
 ::: tip
-At this stage you have learnt a lot of Javascript and CSS therefore, build something amazing with 
-all what you have learnt.
+At this stage you have learnt a lot of Javascript therefore, it will be good to know your way around some frameworks 
+with their state managements as they would help you in your journey as a Web Developer. You may choose to learn
+NodeJs, VueJs, ReactJs or even EmberJs
 :::
 
 * **Projects** <Badge text="Todo" type="tip"/> 
-    1. Build an Application which uses everything you have learnt so far
+    1. Build an Application with any Javascript Framework of your choice
+
+::: NB
+Do not buy into the hype, compare them and understand.
+:::
 
 
 ## Testing
-::: warning Ooops
-Coming soon
+::: tip
+There a lot of different tools for different purposes. However, before you learn any testing tool, it is advisable
+to understand all the testing types to choose what best suits your needs. Some of the testing tools are; Karma, Jest, Mocha etc.
+
 :::
 
 
 ## Progressive Web Apps
-::: warning Ooops
-Coming soon
+::: tip
+Learn about service workers and how to make progressive web apps
+
 :::
 
 
 ## Static Typing
-::: warning Ooops
-Coming soon
+::: tip
+You don't really need to learn this but it will give you more insights and is easy to learn. You may learn Typescript as that 
+is recommended.
+
 :::
 
 
 ## Server Side Rendering
-::: warning Ooops
-Coming soon
+::: tip
+Here, you are required to learn Server Side Rendering in what ever Framework you choose.
+
 :::
 
 
