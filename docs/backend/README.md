@@ -22,8 +22,9 @@ these languages are: Ruby, NodeJs, Python and PHP 7.
   
   
 ## Package Managers
-::: Here, you can now learn a package manager based on the language you choose.
-Coming soon
+
+::: tip
+Here, you can now learn a package manager based on the language you choose
 :::
 
 
