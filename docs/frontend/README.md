@@ -143,11 +143,11 @@ VueJs or ReactJs
  **Resources:**
   - [Modern React with Redux](https://www.udemy.com/react-redux/?siteID=EXclnL5BfX4-ZrQ8hV9zog3.vbH5zzaFjQ&LSNPUBID=EXclnL5BfX4)
   
-  -[Advanced React with Redux](https://www.udemy.com/react-redux-tutorial/?siteID=EXclnL5BfX4-       o_M3MXay9njmxeQTqIduJQ&LSNPUBID=EXclnL5BfX4)
+  - [Advanced React with Redux](https://www.udemy.com/react-redux-tutorial/?siteID=EXclnL5BfX4-       o_M3MXay9njmxeQTqIduJQ&LSNPUBID=EXclnL5BfX4)
   
-  -[Vue js Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?siteID=EXclnL5BfX4-0vQfH.UnlqTztMpUyUGAsg&LSNPUBID=EXclnL5BfX4)
+  - [Vue js Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?siteID=EXclnL5BfX4-0vQfH.UnlqTztMpUyUGAsg&LSNPUBID=EXclnL5BfX4)
   
-  -[The Ultimate Vue Js course](https://www.udemy.com/vuejs-2-essentials/?siteID=EXclnL5BfX4-f7CoQEohy.KhRTyqOnxYiA&LSNPUBID=EXclnL5BfX4)
+  - [The Ultimate Vue Js course](https://www.udemy.com/vuejs-2-essentials/?siteID=EXclnL5BfX4-f7CoQEohy.KhRTyqOnxYiA&LSNPUBID=EXclnL5BfX4)
 
 
  **NB**
