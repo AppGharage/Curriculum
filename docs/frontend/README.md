@@ -188,6 +188,6 @@ the website. Here, you may learn Server Side Rendering in whatever Framework you
 
 ## Functional Programming
 ::: tip
-Functional programming (FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. At this stage, you are required to get functional, that is, writing functional codes for your softwraes other than 
-object oriented.
+Functional programming (FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. At this stage, you are required to get functional, that is, writing functional codes for your softwares other than 
+using the object oriented approach.
 :::
