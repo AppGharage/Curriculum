@@ -71,6 +71,10 @@ Bitbucket, Gitlab etc
 ## APIs
 * Resources: 
     - [Sample](/#)
+    
+## Testing
+ * [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
+
 
 
 ## Basic Terminal Usage 
