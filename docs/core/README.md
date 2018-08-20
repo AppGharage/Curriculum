@@ -73,7 +73,8 @@ Bitbucket, Gitlab etc
     - [Sample](/#)
     
 ## Testing
- * [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
+ * Resources:
+  - [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
 
 
 
