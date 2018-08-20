@@ -1,13 +1,17 @@
 # Backend Track
 
 ## Pick a Language
-::: warning Ooops
-Coming soon
+::: There a couple of Backend lnaguages you can learn. You are to choose a language that suits what you seek to archieve. Some of 
+these languages are: Ruby, NodeJs, Python and PHP 7.
+
+* **Resources**
+-[Ruby for Beginners](https://www.udemy.com/learn-ruby-programming-in-ten-easy-steps/)
+-[Python for Beginners](https://www.udemy.com/getting-started-with-modern-python/)
 :::
 
 
 ## Package Managers
-::: warning Ooops
+::: Here, you can now learn a package manager based on the language you choose.
 Coming soon
 :::
 
