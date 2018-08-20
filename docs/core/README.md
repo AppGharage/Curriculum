@@ -13,13 +13,11 @@ The Curriculum includes projects which would help you validate what you learn. W
 projects in this curriculum, you will have the skills to call yourself a World Class Web Developer :metal: 
 
 ::: warning IMPORTANT
-Don’t let the curriculum scare you. You by no means need to understand everything on this curriculum to become a great Web developer. 
-Instead, use these as a starting point to help guide your learning as you go.
+Don’t let the curriculum scare you. You by no means need to understand everything on this curriculum to become a great Web developer. Instead, use this as a guide.
 
 Understanding these tools and knowing when to use them is very key to your growth as a Developer.
 
 It's advisable to practice what you learn by building mini projects. It doesn't have to be something a lot of people will use. 
-At this stage, you should focus on building your portfolio.
 :::
 
 ---
