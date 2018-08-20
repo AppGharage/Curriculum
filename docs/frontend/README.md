@@ -32,6 +32,10 @@ Learn the Syntax, basic constructs and concepts.
 Learn how to manipulate the DOM , make AJAX request, ES6+ and modular programming.
 You may choose to learn Jquery 
 :::
+* **Resources:**
+  - [Beginner Javscript Course](https://www.udemy.com/the-complete-javascript-course/?siteID=EXclnL5BfX4-Vmv0_MLYu1BXxejDTYke8A&LSNPUBID=EXclnL5BfX4)
+  
+  - [Advanced Javscript Course](https://www.udemy.com/advanced-javascript-course/?siteID=EXclnL5BfX4-U5PkC7TgDJtPFqSKGhu4LA&LSNPUBID=EXclnL5BfX4)
 
 
 * **Projects** <Badge text="Todo" type="tip"/>
@@ -40,10 +44,6 @@ You may choose to learn Jquery
     3. Build a Simple Calculator Application 
     4. Build a timer Countdown
     
-**Resources:**
-  - [Beginner Javscript Course](https://www.udemy.com/the-complete-javascript-course/?siteID=EXclnL5BfX4-Vmv0_MLYu1BXxejDTYke8A&LSNPUBID=EXclnL5BfX4)
-  
-  - [Advanced Javscript Course](https://www.udemy.com/advanced-javascript-course/?siteID=EXclnL5BfX4-U5PkC7TgDJtPFqSKGhu4LA&LSNPUBID=EXclnL5BfX4)
 
 
 ## Project - Part 1
@@ -188,5 +188,6 @@ the website. Here, you may learn Server Side Rendering in whatever Framework you
 
 ## Functional Programming
 ::: tip
-Functional programming
+Functional programming (FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. At this stage, you are required to get functional, that is, writing functional codes for your softwraes other than 
+object oriented.
 :::
