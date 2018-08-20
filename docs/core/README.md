@@ -1,6 +1,6 @@
 # Core Track <Badge text="Under Construction" type="warn"/> 
 ::: tip
-You are required to know these, irrespective of the track you choose; as they are the core 
+You are required to know these, irrespective of the track you choose; as they are at the core 
 of programming.
 :::
 
@@ -19,7 +19,6 @@ Understanding these tools and knowing when to use them is very key to your growt
 
 It's advisable to practice what you learn by building mini projects. It doesn't have to be something a lot of people will use. 
 :::
-
 ---
 
 
@@ -35,7 +34,7 @@ It's advisable to practice what you learn by building mini projects. It doesn't 
 
 ## Version Control
 ::: tip
-Learn to Use a Version control system such as **Git** to keep track of changes in your projects
+Learn to Use a Version Control System such as **Git**  which keeps track of changes in your projects and makes collaborating with other developers to work on the same project a breeze.
 :::
 * Resources: 
     - [Sample](/#)
@@ -43,7 +42,7 @@ Learn to Use a Version control system such as **Git** to keep track of changes i
 
 ## Cloud Code Hosting Platforms
 ::: tip
-Create a profile on **Github**, create and contribute to Open Source Projects.
+Create a profile on **Github**, create projects and learn about Open Source Projects.
 Explore under the hood of Open Source Projects. Other code hosting Platforms include
 Bitbucket, Gitlab etc
 :::
@@ -82,6 +81,6 @@ It's advisable to run a linux based system or MAC to get used to the commands
 ---
 
 ::: warning IMPORTANT
-After Learning the Core which is required for any path you choose, you may decide to choose either the
-Frontend Path or Backend or even both. 
+After Learning the Core which is required for any path you choose, you may decide to choose focus on either the
+Frontend Track , Backend Track or even both. 
 :::
