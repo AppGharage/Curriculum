@@ -132,15 +132,14 @@ all what you have learnt.
 
 ## Pick a Javascript Framework or Library
 ::: tip
-At this stage you have learnt a lot of Javascript therefore, it will be good to know your way around some frameworks 
-with their state managements as they would help you in your journey as a Web Developer. You may choose to learn
-VueJs or ReactJs 
+At this stage, you have learnt a lot of Javascript therefore, it will be good to know your way around some frameworks or
+libraries and their state managers. You may choose to learn VueJs and Vuex or ReactJs and Redux.
+
+**NB**
+Do not buy into the hype, compare them and understand
 :::
 
-* **Projects** <Badge text="Todo" type="tip"/> 
-    1. Build an Application with any Javascript Framework of your choice
-    
- **Resources:**
+* **Resources:**
   - [Modern React with Redux](https://www.udemy.com/react-redux/?siteID=EXclnL5BfX4-ZrQ8hV9zog3.vbH5zzaFjQ&LSNPUBID=EXclnL5BfX4)
   
   - [Advanced React with Redux](https://www.udemy.com/react-redux-tutorial/?siteID=EXclnL5BfX4-pBmEkPr3anFUEVT4QKCexA&LSNPUBID=EXclnL5BfX4)
@@ -150,15 +149,14 @@ VueJs or ReactJs
   - [The Ultimate Vue Js course](https://www.udemy.com/vuejs-2-essentials/?siteID=EXclnL5BfX4-f7CoQEohy.KhRTyqOnxYiA&LSNPUBID=EXclnL5BfX4)
 
 
- **NB**
-Do not buy into the hype, compare them and understand
-
+* **Projects** <Badge text="Todo" type="tip"/> 
+    1. Build an Application with any Javascript Framework of your choice
+    
 
 
 ## Testing
 ::: tip
-There are a lot of different tools for different purposes. However, before you learn any testing tool, it is advisable
-to understand all the testing types in order to choose what best suits your needs. Some of the testing tools are; Karma, Jest, Mocha etc.
+Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. Some of the testing tools are; Karma, Jest, Mocha etc.
 :::
 
 **Resources:**
@@ -168,22 +166,22 @@ to understand all the testing types in order to choose what best suits your need
 
 ## Progressive Web Apps
 ::: tip
-Learn about Service Workers and how to make Progressive Web Apps
+Enhance your web application by delivering an applike experience to it's users.Learn about Service Workers and how to make Web Applications Progressive.
 
 :::
 
 
 ## Static Typing
 ::: tip
-You don't really need to learn this but it will give you more insights and it is easy to learn. You may learn Typescript as that 
-is recommended.
+Static typed languages are those in which type checking is done at compile time.
 
 :::
 
 
 ## Server Side Rendering
 ::: tip
-Here, you are required to learn Server Side Rendering in whatever Framework you choose to learn. 
+This is a technique which invloves employing scripts on a web server to produce a response customised for each client's request to
+the website. Here, you may learn Server Side Rendering in whatever Framework you choose to learn. Example: NextJs or NuxtJs.
 
 :::
 
