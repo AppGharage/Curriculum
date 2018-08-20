@@ -136,8 +136,8 @@ NodeJs, VueJs, ReactJs or even EmberJs
     1. Build an Application with any Javascript Framework of your choice
 
 ::: NB
-Do not buy into the hype, compare them and understand.
-:::
+Do not buy into the hype, compare them and understand
+
 
 
 ## Testing
