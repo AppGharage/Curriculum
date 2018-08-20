@@ -129,7 +129,7 @@ all what you have learnt.
 ::: tip
 At this stage you have learnt a lot of Javascript therefore, it will be good to know your way around some frameworks 
 with their state managements as they would help you in your journey as a Web Developer. You may choose to learn
-NodeJs, VueJs, ReactJs or even EmberJs
+VueJs or ReactJs 
 :::
 
 * **Projects** <Badge text="Todo" type="tip"/> 
