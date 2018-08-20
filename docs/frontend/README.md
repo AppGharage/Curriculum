@@ -144,12 +144,11 @@ Do not buy into the hype, compare them and understand
 ::: tip
 There are a lot of different tools for different purposes. However, before you learn any testing tool, it is advisable
 to understand all the testing types in order to choose what best suits your needs. Some of the testing tools are; Karma, Jest, Mocha etc.
+:::
 
- * Resources:
+**Resources:**
   - [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
 
-
-:::
 
 
 ## Progressive Web Apps
