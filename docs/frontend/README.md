@@ -135,29 +135,29 @@ NodeJs, VueJs, ReactJs or even EmberJs
 * **Projects** <Badge text="Todo" type="tip"/> 
     1. Build an Application with any Javascript Framework of your choice
 
-* **NB**
+ **NB**
 Do not buy into the hype, compare them and understand
 
 
 
 ## Testing
 ::: tip
-There a lot of different tools for different purposes. However, before you learn any testing tool, it is advisable
-to understand all the testing types to choose what best suits your needs. Some of the testing tools are; Karma, Jest, Mocha etc.
+There are a lot of different tools for different purposes. However, before you learn any testing tool, it is advisable
+to understand all the testing types in order to choose what best suits your needs. Some of the testing tools are; Karma, Jest, Mocha etc.
 
 :::
 
 
 ## Progressive Web Apps
 ::: tip
-Learn about service workers and how to make progressive web apps
+Learn about Service Workers and how to make Progressive Web Apps
 
 :::
 
 
 ## Static Typing
 ::: tip
-You don't really need to learn this but it will give you more insights and is easy to learn. You may learn Typescript as that 
+You don't really need to learn this but it will give you more insights and it is easy to learn. You may learn Typescript as that 
 is recommended.
 
 :::
@@ -165,7 +165,7 @@ is recommended.
 
 ## Server Side Rendering
 ::: tip
-Here, you are required to learn Server Side Rendering in what ever Framework you choose.
+Here, you are required to learn Server Side Rendering in whatever Framework you choose to learn. 
 
 :::
 
