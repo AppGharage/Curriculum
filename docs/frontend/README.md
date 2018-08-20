@@ -1,4 +1,4 @@
-# Frontend Curriculum
+# Frontend Track
 
 
 ## HTML

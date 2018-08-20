@@ -12,7 +12,7 @@ home: true
 actionText: Get Started →
 actionLink: /core/
 features:
-- title: The Core 
+- title: The Core Track
   details: Everything under this track is essential, irrespective of the track you choose to master or learn.
 - title: The Frontend Track
   details: The focus of this track is to guide you how to learn to build User Interfaces for Applications to interact with the Backend

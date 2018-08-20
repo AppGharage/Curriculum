@@ -1,4 +1,4 @@
-# Core Curriculum <Badge text="Under Construction" type="warn"/> 
+# Core Track <Badge text="Under Construction" type="warn"/> 
 ::: tip
 You are required to know these, irrespective of the track you choose; as they are the core 
 of programming.
