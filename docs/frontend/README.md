@@ -135,7 +135,7 @@ NodeJs, VueJs, ReactJs or even EmberJs
 * **Projects** <Badge text="Todo" type="tip"/> 
     1. Build an Application with any Javascript Framework of your choice
 
-::: NB
+* **NB**
 Do not buy into the hype, compare them and understand
 
 
