@@ -72,10 +72,6 @@ Bitbucket, Gitlab etc
 * Resources: 
     - [Sample](/#)
     
-## Testing
- * Resources:
-  - [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
-
 
 
 ## Basic Terminal Usage 
