@@ -17,6 +17,8 @@ these languages are: Ruby, NodeJs, Python and PHP 7.
   - [Python for Beginners](https://www.udemy.com/getting-started-with-modern-python/)
   
   - [NodeJs for Beginners](https://www.udemy.com/understand-nodejs/)
+  
+  - [PHP for Beginners](http://bit.ly/learn-php-course)
 
 
 * **Project**
@@ -90,8 +92,8 @@ NoSQL encompasses a wide variety of different database technologies that were de
 
 
 ## Caching
-::: warning Ooops
-Coming soon
+::: tip
+Caching is the term for storing reusable responses in order to make subsequent requests faster. There are many different types of caching available, each of which has its own characteristics.
 :::
 
 
