@@ -7,8 +7,7 @@ There a couple of Backend languages you can learn. You are to choose a language 
 these languages are: Ruby, NodeJs, Python and PHP 7.
 
   **NB**
-  
-  Do not choose a language based on it's hype.
+    Do not choose a language based on it's hype.
 :::
 
 * **Resources**
@@ -41,8 +40,8 @@ Each language has it's own standard and best practices of doing things. Now, you
 
 * **Resources**
 
- - [Backend Best Practices](https://github.com/futurice/backend-best-practices)
- - [Coding Best Practices and Standards](https://handbook.imarc.com/)
+  - [Backend Best Practices](https://github.com/futurice/backend-best-practices)
+  - [Coding Best Practices and Standards](https://handbook.imarc.com/)
 
 
 
