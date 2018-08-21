@@ -28,7 +28,7 @@ these languages are: Ruby, NodeJs, Python and PHP 7.
 
 ::: tip
 Here, you can now learn a package manager associated with the language you choose. Package managers will help you include external 
-dependencies in your applications and to distribute your own packages. Example: Php has composer, Node has NPM, Python has pip etc..
+dependencies in your applications and to distribute your own packages. Example: Php has composer, Ruby has RubyGems, Node has NPM or Yarn, Python has pip etc..
 :::
 
 
@@ -52,31 +52,39 @@ Create a library or package and distribute it to others to use and be ready to r
 
 
 ## Testing
-::: warning Ooops
-Coming soon
+::: tip
+Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. For now, you could learn about units and integration test in the language you picked. Some of the testing tools are: RSpec for Ruby, pyUnit for python, PHPUnit for PHP etc..
 :::
 
 
 ## Build Something
-::: warning Ooops
-Coming soon
+::: tip
+Add tests to the applications you already built.
 :::
 
 
 ## Pick a Framework
-::: warning Ooops
-Coming soon
+::: tip
+By now, you have learnt a lot about the language you chose so it would be good to learn any framework associated with it. Some of them are: Ruby on Rails for Ruby, Django for Python, Laravel for PHP and Express for NodeJs.
 :::
 
+* **Resources**
+  - [NodeJs & Express](https://www.udemy.com/nodejs-expressjs/)
+  
+  - [Ruby on Rails](https://www.udemy.com/professional-rails-5-development-course/)
+  
+  - [Laravel](https://www.udemy.com/best-laravel/)
+  
+  - [Dzango](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
 
 ## Pick a Project 
-::: warning Ooops
-Coming soon
+::: tip
+Pick a project of your choice. Build this using all what you have learnt from above and share for feedback. Do well to host this project on GitHub or any cloud storage.
 :::
 
 
 ## No-SQL Databases
-::: warning Ooops
+::: tip
 Coming soon
 :::
 
