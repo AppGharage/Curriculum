@@ -163,7 +163,7 @@ Do not buy into the hype, compare them and understand
 Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. Some of the testing tools are; Karma, Jest, Mocha etc.
 :::
 
-**Resources:**
+* **Resources:**
   - [Testing tools](https://frontendmasters.com/books/front-end-handbook/2017/tools/testing.html)
 
 
@@ -171,14 +171,12 @@ Testing assesses the quality of a product. There are a lot of tools for testing.
 ## Progressive Web Apps
 ::: tip
 Enhance your web application by delivering an applike experience to it's users.Learn about Service Workers and how to make Web Applications Progressive.
-
 :::
 
 
 ## Static Typing
 ::: tip
 Static typed languages are those in which type checking is done at compile time.
-
 :::
 
 
@@ -186,7 +184,6 @@ Static typed languages are those in which type checking is done at compile time.
 ::: tip
 This is a technique which invloves employing scripts on a web server to produce a response customised for each client's request to
 the website. Here, you may learn Server Side Rendering in whatever Framework you choose to learn. Example: NextJs or NuxtJs.
-
 :::
 
 
