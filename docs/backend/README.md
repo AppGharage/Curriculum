@@ -5,6 +5,9 @@
 ::: tip
 There a couple of Backend languages you can learn. You are to choose a language that suits what you seek to archieve. Some of 
 these languages are: Ruby, NodeJs, Python and PHP 7.
+
+  **NB**
+  Do not choose a language based on it's hype.
 :::
 
 * **Resources**
@@ -18,20 +21,27 @@ these languages are: Ruby, NodeJs, Python and PHP 7.
 
 * **Project**
 
-  Build a Restful API
+  Build something with what you have learnt using any of the languages you choose. Example: Command line applications etc.
   
   
 ## Package Managers
 
 ::: tip
-Here, you can now learn a package manager based on the language you choose
+Here, you can now learn a package manager associated with the language you choose. Package managers will help you include external 
+dependencies in your applications and to distribute your own packages. Example: Php has composer, Node has NPM, Python has pip etc..
 :::
 
 
 ## Standards & best Practices
-::: warning Ooops
-Coming soon
+
+::: tip
+Each language has it's own standard and best practices of doing things. Now, you are required to learn these in order for you to be a successful Backend developer.
 :::
+
+* **Resources**
+ - [Backend Best Practices](https://github.com/futurice/backend-best-practices)
+ - [Coding Best Practices and Standards](https://handbook.imarc.com/)
+
 
 
 ## Publish a library/Package
