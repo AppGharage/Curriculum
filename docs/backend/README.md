@@ -46,8 +46,8 @@ Each language has it's own standard and best practices of doing things. Now, you
 
 
 ## Publish a library/Package
-::: warning Ooops
-Coming soon
+::: tip
+Create a library or package and distribute it to others to use and be ready to recieve feedback. Be sure to build it by following the standards and best practices.
 :::
 
 
