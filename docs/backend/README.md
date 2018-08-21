@@ -53,7 +53,7 @@ Create a library or package and distribute it to others to use and be ready to r
 
 ## Testing
 ::: tip
-Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. For now, you could learn about units and integration test in the language you picked. Some of the testing tools are: RSpec for Ruby, pyUnit for python, PHPUnit for PHP etc..
+Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. For now, you could learn about units and integration test in the language you picked. Some of the testing tools are: RSpec for Ruby, pyUnit for python, PHPUnit for PHP and Mocha for NodeJs.
 :::
 
 
@@ -65,7 +65,7 @@ Add tests to the applications you already built.
 
 ## Pick a Framework
 ::: tip
-By now, you have learnt a lot about the language you chose so it would be good to learn any framework associated with it. Some of them are: Ruby on Rails for Ruby, Django for Python, Laravel for PHP and Express for NodeJs.
+By now, you have learnt a lot about the language you chose so, it would be good to learn any framework associated with it. Some of them are: Ruby on Rails for Ruby, Django for Python, Laravel for PHP and Express for NodeJs.
 :::
 
 * **Resources**
@@ -79,13 +79,13 @@ By now, you have learnt a lot about the language you chose so it would be good t
 
 ## Pick a Project 
 ::: tip
-Pick a project of your choice. Build this using all what you have learnt from above and share for feedback. Do well to host this project on GitHub or any cloud storage.
+Pick a project of your choice. Build this using all what you have learnt from above and share for feedback. Do well to host this project on GitHub or any cloud storage. It should have Login, Registration and CRUD.
 :::
 
 
 ## No-SQL Databases
 ::: tip
-Coming soon
+NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Read and understand  these databases and their importance. Then learn how to use any of them based on what you want to do.
 :::
 
 
