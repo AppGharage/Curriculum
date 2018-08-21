@@ -35,7 +35,11 @@ You may choose to learn Jquery
 * **Resources:**
   - [Beginner Javscript Course](https://www.udemy.com/the-complete-javascript-course/?siteID=EXclnL5BfX4-Vmv0_MLYu1BXxejDTYke8A&LSNPUBID=EXclnL5BfX4)
   
+  - [Javascript for Absolute Beginners](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/learn/v4/t/lecture/3672096?start=0)
+  
   - [Advanced Javscript Course](https://www.udemy.com/advanced-javascript-course/?siteID=EXclnL5BfX4-U5PkC7TgDJtPFqSKGhu4LA&LSNPUBID=EXclnL5BfX4)
+  
+  
 
 
 * **Projects** <Badge text="Todo" type="tip"/>
