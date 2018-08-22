@@ -87,7 +87,7 @@ Pick a project of your choice. Build this using all what you have learnt from ab
 
 ## No-SQL Databases
 ::: tip
-NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Read and understand  these databases and their importance. Have a look at all the ones available and pick one. It is advisable to pick MongoDB.
+NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Read and understand  these databases and their importance. Have a look at all the ones available and pick one. 
 :::
 
 * **Resources**
@@ -98,13 +98,13 @@ NoSQL encompasses a wide variety of different database technologies that were de
 
 ## Caching
 ::: tip
-Caching is the term for storing reusable responses in order to make subsequent requests faster. There are many different types of caching available, each of which has its own characteristics. Learn how to implement app caching using Redis or Membcached.
+Caching is the term for storing reusable responses in order to make subsequent requests faster. There are many different types of caching available, each of which has its own characteristics. Learn how to implement app caching using Redis or Memcached.
 :::
 
 
 ## APIs
 ::: tip
-An application program interface (API) is a set of routines, protocols, and tools for building software applications.A good API makes it easier to develop a program by providing all the building blocks. Understand REST and learn how to build Resful APIs.
+Technically, API stands for Application Programming Interface. It is a software intermediary that allows two applications to talk to each other.A good API makes it easier to develop a program by providing all the building blocks. Understand REST and learn how to build Resful APIs.
 :::
 
 
