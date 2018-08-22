@@ -4,7 +4,10 @@
 
 ::: tip
 There a couple of widely used Backend languages you may choose to learn. It's advisable to pick one and master it as languages are just tools to solve a probelm. Some of these languages are: Ruby, NodeJs, Python and PHP.
+:::
 
+::: warning IMPORTANT
+Don’t follow trendy tools and stacks, pick the one you are comfortable with and you can easily learn. 
 :::
 
 * **Resources**
@@ -20,7 +23,7 @@ There a couple of widely used Backend languages you may choose to learn. It's ad
 
 * **Project**
 
-  Build something with what you have learnt using any of the languages you choose. Example: Command line applications etc.
+  Build as many projects as you can using any of the language you choose. Example: Command line applications etc.
   
   
 ## Package Managers
