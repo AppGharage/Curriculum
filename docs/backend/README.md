@@ -23,27 +23,27 @@ Don’t follow trendy tools and stacks, pick the one you are comfortable with an
 
 * **Project**
 
-  Build as many projects as you can using any of the language you choose. Example: Command line applications etc.
+  Build as many projects as you can using any of the language you choose. Example: Todo List, Blog, Command line applications etc.
   
   
 ## Package Managers
 
 ::: tip
-Here, you can now learn a package manager associated with the language you choose. Package managers will help you include external 
-dependencies in your applications and to distribute your own packages. Example: Php has composer, Ruby has RubyGems, Node has NPM or Yarn, Python has pip etc..
+ Package managers will help you include external dependencies in your applications and to distribute your own packages. Here, you can now learn a package manager associated with the language you choose. Example: Php has composer, Ruby has RubyGems, Node has NPM or Yarn, Python has pip etc..
 :::
 
 
 ## Standards & best Practices
 
 ::: tip
-Each language has it's own standard and best practices of doing things. Now, you are required to learn these in order for you to be a successful Backend developer.
+Each language has it's own standard and best practices. Now, you are required to learn these in order for you not to only be a successful Backend developer but also, write clean code.
 :::
 
 * **Resources**
 
   - [Backend Best Practices](https://github.com/futurice/backend-best-practices)
   - [Coding Best Practices and Standards](https://handbook.imarc.com/)
+  - [Php the right way](https://www.phptherightway.com/)
 
 
 
@@ -55,7 +55,7 @@ Create a library or package and distribute it to others to use and be ready to r
 
 ## Testing
 ::: tip
-Testing assesses the quality of a product. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. For now, you could learn about units and integration test in the language you picked. Some of the testing tools are: RSpec for Ruby, pyUnit for python, PHPUnit for PHP and Mocha for NodeJs.
+Testing assesses the quality of your code. There are a lot of tools for testing. However, before you learn any testing tool, it is advisable to understand testing and it's importance. For now, you could learn about units and integration test in the language you picked. Some of the testing tools are: RSpec for Ruby, pyUnit for python, PHPUnit for PHP and Mocha for NodeJs.
 :::
 
 
@@ -67,7 +67,7 @@ Add tests to the applications you already built.
 
 ## Pick a Framework
 ::: tip
-By now, you have learnt a lot about the language you chose so, it would be good to learn any framework associated with it. Some of them are: Ruby on Rails for Ruby, Django for Python, Laravel for PHP and Express for NodeJs.
+By now, you have learnt a lot about the language you chose, it will be good to learn any framework associated with it. Frameworks helps you build applications faster and secure. Some of them are: Ruby on Rails for Ruby, Django for Python, Laravel for PHP and Express for NodeJs.
 :::
 
 * **Resources**
@@ -81,18 +81,19 @@ By now, you have learnt a lot about the language you chose so, it would be good 
 
 ## Pick a Project 
 ::: tip
-Pick a project of your choice. Build this using all what you have learnt from above and share for feedback. Do well to host this project on GitHub or any cloud storage. It should have Login, Registration and CRUD.
+Pick a project of your choice. Build this using all what you have learnt from above and share for feedback. Do well to host this project on GitHub or any cloud hosting service. It should have CRUD functionalities.
 :::
 
 
 ## No-SQL Databases
 ::: tip
 NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Read and understand  these databases and their importance. Have a look at all the ones available and pick one. It is advisable to pick MongoDB.
+:::
 
 * **Resources**
 - [MongoDB Essentials](https://www.udemy.com/mongodb-essentials-m/)
 - [NodeJs, Express and MongoDB](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
-:::
+
 
 
 ## Caching
