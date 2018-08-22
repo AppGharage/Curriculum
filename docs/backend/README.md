@@ -3,11 +3,8 @@
 ## Pick a Language
 
 ::: tip
-There a couple of Backend languages you can learn. You are to choose a language that suits what you seek to archieve. Some of 
-these languages are: Ruby, NodeJs, Python and PHP 7.
+There a couple of widely used Backend languages you may choose to learn. It's advisable to pick one and master it as languages are just tools to solve a probelm. Some of these languages are: Ruby, NodeJs, Python and PHP.
 
-  **NB**
-    Do not choose a language based on it's hype.
 :::
 
 * **Resources**
