@@ -91,8 +91,8 @@ NoSQL encompasses a wide variety of different database technologies that were de
 :::
 
 * **Resources**
-- [MongoDB Essentials](https://www.udemy.com/mongodb-essentials-m/)
-- [NodeJs, Express and MongoDB](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
+  - [MongoDB Essentials](https://www.udemy.com/mongodb-essentials-m/)
+  - [NodeJs, Express and MongoDB](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
 
 
 
