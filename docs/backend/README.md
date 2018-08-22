@@ -88,6 +88,10 @@ Pick a project of your choice. Build this using all what you have learnt from ab
 ## No-SQL Databases
 ::: tip
 NoSQL encompasses a wide variety of different database technologies that were developed in response to the demands presented in building modern applications. Read and understand  these databases and their importance. Have a look at all the ones available and pick one. It is advisable to pick MongoDB.
+
+* **Resources**
+- [MongoDB Essentials](https://www.udemy.com/mongodb-essentials-m/)
+- [NodeJs, Express and MongoDB](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/)
 :::
 
 
