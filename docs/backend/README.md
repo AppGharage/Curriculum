@@ -123,14 +123,14 @@ Authentication is the process of validating the identity of a registered user be
   - [Creating an authentication system](https://www.udemy.com/react-native-authentication-with-nodejs-and-express/)
 
 ## Message Brokers
-::: warning Ooops
-Coming soon
+::: tip
+A message broker (also known as an integration broker or interface engine) is an intermediary computer program module that translates a message from the formal messaging protocol of the sender to the formal messaging protocol of the receiver. Learn about this, understand it's important and pick one you want.
 :::
 
 
-## Search
-::: warning Ooops
-Coming soon
+## Search Engines
+::: tip
+A search engine is a software program or script available through the Internet that searches documents and files for keywords and returns the results of any files containing those keywords.
 :::
 
 
