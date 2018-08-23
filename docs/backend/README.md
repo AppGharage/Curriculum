@@ -107,12 +107,20 @@ Caching is the term for storing reusable responses in order to make subsequent r
 Technically, API stands for Application Programming Interface. It is a software intermediary that allows two applications to talk to each other.A good API makes it easier to develop a program by providing all the building blocks. Understand REST and learn how to build Resful APIs.
 :::
 
+* **Resources**
+  - [Building APIs](https://www.udemy.com/learn-apis/)
+  - [Building APIs with Python](https://www.udemy.com/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/)
+  - [Building APIs](https://www.udemy.com/django-python/)
+  - [Building APIs with NodeJs](https://www.udemy.com/api-development/)
+
 
 ## Authentication / Authorization Methodologies
-::: warning Ooops
-Coming soon
+::: tip
+Authentication is the process of validating the identity of a registered user before allowing access to the protected resource. Learn about the differences and how to implement them. Some of these are: OAuth, Token Authentication, JWT and many others.
 :::
 
+* **Resources**
+  - [Creating an authentication system](https://www.udemy.com/react-native-authentication-with-nodejs-and-express/)
 
 ## Message Brokers
 ::: warning Ooops
