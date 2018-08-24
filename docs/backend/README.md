@@ -130,13 +130,16 @@ A message broker (also known as an integration broker or interface engine) is an
 
 ## Search Engines
 ::: tip
-A search engine is a software program or script available through the Internet that searches documents and files for keywords and returns the results of any files containing those keywords.
+A search engine is a software program or script available through the Internet that searches documents and files for keywords and returns the results of any files containing those keywords. You can build one yourself.
 :::
+
+* **Resources**
+  - [Build Search Engine from Scratch](https://www.udemy.com/building-a-search-engine/)
 
 
 ## Design Patterns
-::: warning Ooops
-Coming soon
+::: tip
+Software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. They can speed up the development process.
 :::
 
 
