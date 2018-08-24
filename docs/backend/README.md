@@ -139,13 +139,13 @@ A search engine is a software program or script available through the Internet t
 
 ## Design Patterns
 ::: tip
-Software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. They can speed up the development process.
+Software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. They can speed up your development process.
 :::
 
 
 ## Architectural Patterns
-::: warning Ooops
-Coming soon
+::: tip
+An architectural pattern is a general, reusable solution to a commonly occurring problem in software architecture within a given context. The have broader scope as compared to software patterns.
 :::
 
 
