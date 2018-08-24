@@ -150,30 +150,42 @@ An architectural pattern is a general, reusable solution to a commonly occurring
 
 
 ## Domain Driven Design
-::: warning Ooops
-Coming soon
+::: tip
+It is a software development approach that uses and builds upon  Object-Oriented Analysis and Design (OOAD) principles and ideas, so it’s the next logical topic for you to learn. Read more about Domains and try setting up a server.
 :::
 
 
 ## Docker
-::: warning Ooops
-Coming soon
+::: tip
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. It would be good to know this especially when you would love to be add systems administration.
 :::
 
+* **Resources**
+  - [Everything About Docker](https://www.docker.com/)
+  - [Master Docker](https://www.udemy.com/docker-mastery/)
 
 ## Servers
-::: warning Ooops
-Coming soon
+::: tip
+Servers are computers that are set aside to store data or manage network connections. Understand servers and how they work. It would be good to build one as well.
 :::
+
+* **Resources**
+  - [Build a Lamp Server](https://www.udemy.com/web-design-lab/)
+  - [Understand server Administration](https://www.udemy.com/introduction-to-server-administration/)
 
 
 ## Web Sockets
-::: warning Ooops
-Coming soon
+::: tip
+WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a serve. This is not really neede but you need to understand it's technologies.
 :::
 
 
 ## Graph Databases
-::: warning Ooops
-Coming soon
+::: tip
+Again, this may not be very important but you can read around it to understand some things.
 :::
+
+* **Resources**
+  - [Graph for beginners](https://neo4j.com/blog/why-graph-databases-are-the-future/)
+  - [NoSQL Graph Database](https://www.udemy.com/neo4j-graph-database-from-scratch/)
+  
