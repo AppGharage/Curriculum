@@ -30,7 +30,7 @@ module.exports = {
                 items: [{
                         text: 'General', 
                         items: [
-                            { text: 'Beginner', link: '/projects' },
+                            { text: 'Beginner', link: '/projects/' },
                             { text: 'Intermediate', link: '/frontend/beginner' },
                             { text: 'Advanced', link: '/frontend/beginner' }
                         ]
