@@ -7,3 +7,19 @@ This is a list of practical projects that anyone can solve in any programming la
 :::
 
 
+## Table of Contents
+
+* **Numbers**
+* **Classic Algorithms**
+* **Graph**
+* **Data Structures**
+* **Text**
+* **Networking**
+* **Classes**
+* **Threading**
+* **Web**
+* **Files**
+* **Databases**
+* **Graphics and Multimedia**
+* **Security**
+
