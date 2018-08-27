@@ -25,7 +25,6 @@ module.exports = {
         displayAllHeaders: true,
         nav: [
             { text: 'Home', link: '/' },
-
             { text: 'Projects', link: '/projects/' },
             {
                 items: [{
