@@ -25,12 +25,12 @@ module.exports = {
         displayAllHeaders: true,
         nav: [
             { text: 'Home', link: '/' },
+             { text: 'Projects', link: '/projects/' },
             {
-                text: 'Projects',
                 items: [{
                         text: 'General', 
                         items: [
-                            { text: 'Beginner', link: '/projects/' },
+                            { text: 'Beginner', link: '/frontend/beginner' },
                             { text: 'Intermediate', link: '/frontend/beginner' },
                             { text: 'Advanced', link: '/frontend/beginner' }
                         ]
