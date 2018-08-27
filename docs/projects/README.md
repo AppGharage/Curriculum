@@ -9,8 +9,8 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  * **[Numbers](https://github.com/AppGharage/Curriculum/Projects#Numbers)**
-  * **[Classic Algorithms](https://github.com/AppGharage/Curriculum/Projects#Classic Algorithms)**
+  - [Numbers](https://github.com/AppGharage/Curriculum/docs/Projects#numbers)
+  - [Classic Algorithms](https://github.com/AppGharage/Curriculum/docs/Projects#ClassicAlgorithms)**
   * **Graph**
   * **Data Structures**
   * **Text**
