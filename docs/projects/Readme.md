@@ -23,3 +23,10 @@ This is a list of practical projects that anyone can solve in any programming la
 * **Graphics and Multimedia**
 * **Security**
 
+
+## Numbers
+
+::: Find PI to the Nth Digit ::: -  Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+
+
+
