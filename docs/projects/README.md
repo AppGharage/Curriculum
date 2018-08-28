@@ -9,10 +9,10 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](projects#Numbers)
-  - [Classic Algorithms](projects#Classic-Algorithms)
-  - [Graph](/rojects/#Graph)
-  - [Data Structures](/Projects/#Data Structures)
+  - [Numbers](Projects#Numbers)
+  - [Classic Algorithms](Projects#Classic-Algorithms)
+  - [Graph](/Projects/#Graph)
+  - [Data Structures](/Projects/#Data-Structures)
   - [Text](/Projects/#Text)
   - [Networking](/Projects/#Networking)
   * **Classes**
@@ -98,7 +98,7 @@ This is a list of practical projects that anyone can solve in any programming la
   * **Minimum Spanning Tree** - Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible.
   
   
- ## Data Structures
+ ## Data-Structures
  
   * **Inverted index** - An Inverted Index is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
 
