@@ -52,7 +52,8 @@ Explore under the hood of Open Source Projects. Other code hosting Platforms inc
 Bitbucket, Gitlab etc
 :::
 * Resources: 
-    - [Sample](/#)
+    - [How to Use GitHub](https://www.youtube.com/watch?v=E8TXME3bzNs)
+    - [GitHub for Beginners](https://guides.github.com/introduction/git-handbook/)
 
 
 ## Problem Solving & Research 
