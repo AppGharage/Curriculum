@@ -9,8 +9,8 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](/#Numbers/)
-  - [Classic Algorithms](/#Classic-Algorithms/)
+  - [Numbers](/#Numbers)
+  - [Classic Algorithms](/#Classic-Algorithms)
   * **Graph**
   * **Data Structures**
   * **Text**
