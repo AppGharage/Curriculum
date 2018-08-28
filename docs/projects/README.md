@@ -9,9 +9,9 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](projects/#Numbers)
-  - [Classic Algorithms](/projects/#Classic Algorithms)
-  - [Graph](/Projects/#Graph)
+  - [Numbers](projects#Numbers)
+  - [Classic Algorithms](projects#Classic-Algorithms)
+  - [Graph](/rojects/#Graph)
   - [Data Structures](/Projects/#Data Structures)
   - [Text](/Projects/#Text)
   - [Networking](/Projects/#Networking)
@@ -24,7 +24,8 @@ This is a list of practical projects that anyone can solve in any programming la
   * **Security**
 
 
-## Numbers
+   Numbers
+   --------
 
   * **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
   
@@ -72,7 +73,8 @@ This is a list of practical projects that anyone can solve in any programming la
 
 
 
-## Classic-Algorithms
+ Classic-Algorithms
+ --------
 
  * **Collatz Conjecture** - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
  
