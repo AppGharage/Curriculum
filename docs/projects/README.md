@@ -9,12 +9,12 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](Projects#Numbers)
-  - [Classic Algorithms](Projects#Classic-Algorithms)
-  - [Graph](/Projects/#Graph)
-  - [Data Structures](/Projects/#Data-Structures)
-  - [Text](/Projects/#Text)
-  - [Networking](/Projects/#Networking)
+  - [Numbers](/#Numbers)
+  - [Classic Algorithms](/#Classic-Algorithms)
+  - [Graph](/#Graph)
+  - [Data Structures](/#Data-Structures)
+  - [Text](/#Text)
+  - [Networking](/#Networking)
   * **Classes**
   * **Threading**
   * **Web**
