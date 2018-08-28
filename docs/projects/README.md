@@ -10,18 +10,18 @@ This is a list of practical projects that anyone can solve in any programming la
 ## Table of Contents
 
   - [Numbers](#numbers)
-  - [Classic Algorithms](https://curriculum.appgharage.com/Projects#classic-algorithms)
-  - [Graph](https://curriculum.appgharage.com/Projects#graph)
-  - [Data Structures](https://curriculum.appgharage.com/Projects#data-structures)
-  - [Text](https://curriculum.appgharage.com/projects/#text)
-  - [Networking](https://curriculum.appgharage.com/projects/#networking)
-  - [Classes](https://curriculum.appgharage.com/projects/#classes)
-  - [Threading](https://curriculum.appgharage.com/projects/#threading)
-  - [Web](https://curriculum.appgharage.com/projects/#web)
-  - [Files](https://curriculum.appgharage.com/projects/#files)
-  - [Databases](https://curriculum.appgharage.com/projects/#databases)
-  - [Graphics and Multimedia](https://curriculum.appgharage.com/projects/#graphics-and-multimedia)
-  - [Security](https://curriculum.appgharage.com/projects/#security)
+  - [Classic Algorithms](#classic-algorithms)
+  - [Graph](#graph)
+  - [Data Structures](#data-structures)
+  - [Text](#text)
+  - [Networking](#networking)
+  - [Classes](#classes)
+  - [Threading](#threading)
+  - [Web](#web)
+  - [Files](#files)
+  - [Databases](#databases)
+  - [Graphics and Multimedia](#graphics-and-multimedia)
+  - [Security](#security)
 
 
 ## Numbers
