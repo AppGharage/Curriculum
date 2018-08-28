@@ -9,10 +9,10 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](https://curriculum.appgharage.com/projects#numbers)
-  - [Classic Algorithms](https://curriculum.appgharage.com/projects#classic-algorithms)
-  - [Graph](https://curriculum.appgharage.com/projects#graph)
-  - [Data Structures](https://curriculum.appgharage.com/projects#data-structures)
+  - [Numbers](https://curriculum.appgharage.com/Projects#numbers)
+  - [Classic Algorithms](https://curriculum.appgharage.com/Projects#classic-algorithms)
+  - [Graph](https://curriculum.appgharage.com/Projects#graph)
+  - [Data Structures](https://curriculum.appgharage.com/Projects#data-structures)
   - [Text](https://curriculum.appgharage.com/projects/#text)
   - [Networking](https://curriculum.appgharage.com/projects/#networking)
   - [Classes](https://curriculum.appgharage.com/projects/#classes)
