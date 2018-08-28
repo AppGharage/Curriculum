@@ -22,12 +22,17 @@ It's advisable to practice what you learn by building mini projects. It doesn't 
 
 ## Computer Science Basics
 * Resources: 
-    - [Sample](/#)
+    - [What is computer Science](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
+    - [Core concepts](http://carlcheo.com/compsci)
 
 
 ## Programming Basics
 * Resources: 
-    - [Sample](/#)
+    - [Computer Programming](http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm)
+    - [Introduction to Programming](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html)
+    - [Intro to Programming](https://www.freebsd.org/doc/en/books/developers-handbook/tools-programming.html)
+    - [Intro to Programming](https://medium.freecodecamp.org/a-gentler-introduction-to-programming-1f57383a1b2c)
+    - [Basics of Programming](http://www.tutorialspoint.com/computer_programming/computer_programming_basics.htm)
 
 
 ## Version Control
@@ -35,7 +40,9 @@ It's advisable to practice what you learn by building mini projects. It doesn't 
 Learn to Use a Version Control System such as **Git**  which keeps track of changes in your projects and makes collaborating with other developers to work on the same project a breeze.
 :::
 * Resources: 
-    - [Sample](/#)
+    - [learn Command Line](https://www.learnenough.com/command-line-tutorial)
+    - [Master Command Line](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)
+    - [Terminal Basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 
 ## Cloud Code Hosting Platforms
