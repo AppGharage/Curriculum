@@ -11,21 +11,21 @@ This is a list of practical projects that anyone can solve in any programming la
 
   - [Numbers](https://curriculum.appgharage.com/projects/#numbers)
   - [Classic Algorithms](https://curriculum.appgharage.com/projects/#classic-algorithms)
-  - [Graph](/#Graph)
-  - [Data Structures](/#Data-Structures)
-  - [Text](/#Text)
-  - [Networking](/#Networking)
-  * **Classes**
-  * **Threading**
-  * **Web**
-  * **Files**
-  * **Databases**
-  * **Graphics and Multimedia**
-  * **Security**
+  - [Graph](https://curriculum.appgharage.com/projects/#graph)
+  - [Data Structures](https://curriculum.appgharage.com/projects/#data-structures)
+  - [Text](https://curriculum.appgharage.com/projects/#text)
+  - [Networking](https://curriculum.appgharage.com/projects/#networking)
+  - [Classes](https://curriculum.appgharage.com/projects/#classes)
+  - [Threading](https://curriculum.appgharage.com/projects/#threading)
+  - [Web](https://curriculum.appgharage.com/projects/#web)
+  - [Files](https://curriculum.appgharage.com/projects/#files)
+  - [Databases](https://curriculum.appgharage.com/projects/#databases)
+  - [Graphics and Multimedia](https://curriculum.appgharage.com/projects/#graphics-and-multimedia)
+  - [Security](https://curriculum.appgharage.com/projects/#security)
 
 
-   Numbers
-   --------
+## Numbers
+   
 
   * **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
   
@@ -73,8 +73,8 @@ This is a list of practical projects that anyone can solve in any programming la
 
 
 
- Classic-Algorithms
- --------
+ ## Classic-Algorithms
+ 
 
  * **Collatz Conjecture** - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
  
@@ -101,5 +101,77 @@ This is a list of practical projects that anyone can solve in any programming la
  ## Data-Structures
  
   * **Inverted index** - An Inverted Index is a data structure used to create full text search. Given a set of text files, implement a program to create an inverted index. Also create a user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. The search index can be in memory.
+
+
+## Text
+  
+  **Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+**Reverse a String** - Enter a string and the program will reverse it and print it out.
+
+**Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+
+**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+
+**Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+
+**Count Words in a String** - Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
+
+**Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.*
+
+**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.
+
+**Quote Tracker (market symbols etc)** - A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked. For CLI, show whether the stock has moved up or down. *Optional: If GUI, the program can show green up and red down arrows to show which direction the stock value has moved.*
+
+**Guestbook / Journal** - A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box. *Optional: Deploy it on Google App Engine or Heroku or any other PaaS (if possible, of course).*
+
+**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend.
+
+**Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
+
+
+## Networking
+
+
+**FTP Program** - A file transfer program which can transfer files back and forth from a remote web sever.
+
+**Bandwidth Monitor** - A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session. See if you can find out what periods of the day you use more and less and generate a report or graph that shows it.
+
+**Port Scanner** - Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
+
+**Mail Checker (POP3 / IMAP)** - The user enters various account information include web server and IP, protocol type (POP3 or IMAP) and the application will check for email at a given interval.
+
+**Country from IP Lookup** - Enter an IP address and find the country that IP is registered in. *Optional: Find the Ip automatically.*
+
+**Whois Search Tool** - Enter an IP or host address and have it look it up through whois and return the results to you.
+
+**Site Checker with Time Scheduling** - An application that attempts to connect to a website or server every so many minutes or a given time and check if it is up. If it is down, it will notify you by email or by posting a notice on screen.
+
+
+## Classes
+
+
+**Product Inventory Project** - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an *inventory* class which keeps track of various products and can sum up the inventory value.
+
+**Airline / Hotel Reservation System** - Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
+
+**Company Manager** - Create an hierarchy of classes - abstract class Employee and subclasses HourlyEmployee, SalariedEmployee, Manager and Executive. Every one's pay is calculated differently, research a bit about it.
+After you've established an employee hierarchy, create a Company class that allows you to manage the employees. You should be able to hire, fire and raise employees. 
+
+**Bank Account Manager** - Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program.
+
+**Patient / Doctor Scheduler** - Create a patient class and a doctor class. Have a doctor that can handle multiple patients and setup a scheduling program where a doctor can only handle 16 patients during an 8 hr work day.
+
+**Recipe Creator and Manager** - Create a recipe class with ingredients and a put them in a recipe manager program that organizes them into categories like deserts, main courses or by ingredients like chicken, beef, soups, pies etc.
+
+**Image Gallery** - Create an image abstract class and then a class that inherits from it for each image type. Put them in a program which displays them in a gallery style format for viewing.
+
+**Shape Area and Perimeter Classes** - Create an abstract class called Shape and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type.
+
+**Flower Shop Ordering To Go** - Create a flower shop application which deals in flower objects and use those flower objects in a bouquet object which can then be sold. Keep track of the number of objects and when you may need to order more.
+
+**Family Tree Creator** - Create a class called Person which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen.
+
+
 
 
