@@ -84,7 +84,7 @@ Character encoding is the process of representing individual characters using a 
     - [Basic Data Structures & Important](http://cs-fundamentals.com/data-structures/introduction-to-data-structures.php)
     - [Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
     - [Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
-    - [Learn Algorithms] (https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
+    - [Learn Algorithms](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
     - [Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms)
 
 
