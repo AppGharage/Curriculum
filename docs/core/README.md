@@ -54,21 +54,38 @@ Bitbucket, Gitlab etc
 * Resources: 
     - [How to Use GitHub](https://www.youtube.com/watch?v=E8TXME3bzNs)
     - [GitHub for Beginners](https://guides.github.com/introduction/git-handbook/)
+    - [Using Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 
 ## Problem Solving & Research 
+
+::: tip
+Solving problems is the core of computer science. Programmers must first understand how a human solves a problem, then understand how to translate this "algorithm" into something a computer can do, and finally how to "write" the specific syntax (required by a computer) to get the job done.
+:::
 * Resources: 
-    - [Sample](/#)
+    - [Introduction to Problem Solving](https://ccmit.mit.edu/problem-solving/)
+    - [Intro to Problem Solving](https://www.coursera.org/lecture/problem-solving-skills/1-2b-introduction-to-problem-solving-u1ywX)
 
 
 ## Character Encodings
+
+::: tip
+Character encoding is the process of representing individual characters using a corresponding encoding system made up of other symbols and types of data. Character coding is used for many different purposes.
+:::
 * Resources: 
-    - [Sample](/#)
+    - [Character Encoding for Beginners](https://www.w3.org/International/articles/definitions-characters/)
+    - [Character Encoding](https://www.coursera.org/lecture/technical-support-fundamentals/character-encoding-tRY7l)
 
 
 ## Data Structures and Algorithms
 * Resources: 
-    - [Sample](/#)
+    - [Introduction to Data Structures](https://www.studytonight.com/data-structures/introduction-to-data-structures.php)
+    - [Importance of Data Structures](http://interactivepython.org/courselib/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html)
+    - [Basic Data Structures & Important](http://cs-fundamentals.com/data-structures/introduction-to-data-structures.php)
+    - [Common Data Structures](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+    - [Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
+    - [Learn Algorithms] (https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
+    - [Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms)
 
 
 ## APIs
