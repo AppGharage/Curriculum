@@ -42,7 +42,6 @@ Learn to Use a Version Control System such as **Git**  which keeps track of chan
 * Resources: 
     - [learn Command Line](https://www.learnenough.com/command-line-tutorial)
     - [Master Command Line](https://openclassrooms.com/en/courses/4614926-learn-the-command-line-in-terminal)
-    - [Terminal Basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 
 ## Cloud Code Hosting Platforms
@@ -99,7 +98,7 @@ Character encoding is the process of representing individual characters using a 
 It's advisable to run a linux based system or MAC to get used to the commands 
 :::
 * Resources: 
-    - [Sample](/#)
+    - [Terminal Basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
 
 ---
 
