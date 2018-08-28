@@ -9,8 +9,8 @@ This is a list of practical projects that anyone can solve in any programming la
 
 ## Table of Contents
 
-  - [Numbers](/#Numbers)
-  - [Classic Algorithms](/#Classic-Algorithms)
+  - [Numbers](https://curriculum.appgharage.com/projects/#numbers)
+  - [Classic Algorithms](https://curriculum.appgharage.com/projects/#classic-algorithms)
   - [Graph](/#Graph)
   - [Data Structures](/#Data-Structures)
   - [Text](/#Text)
