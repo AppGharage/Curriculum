@@ -77,7 +77,7 @@ By now, you have learnt a lot about the language you chose, it will be good to l
   
   - [Laravel](https://www.udemy.com/best-laravel/)
   
-  - [Dzango](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
+  - [Django](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/)
 
 ## Pick a Project 
 ::: tip
