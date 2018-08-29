@@ -33,11 +33,11 @@ Learn how to manipulate the DOM , make AJAX request, ES6+ and modular programmin
 You may choose to learn Jquery 
 :::
 * **Resources:**
-  - [Beginner Javscript Course](https://www.udemy.com/the-complete-javascript-course/?siteID=EXclnL5BfX4-Vmv0_MLYu1BXxejDTYke8A&LSNPUBID=EXclnL5BfX4)
+  - [Beginner Javascript Course](https://www.udemy.com/the-complete-javascript-course/?siteID=EXclnL5BfX4-Vmv0_MLYu1BXxejDTYke8A&LSNPUBID=EXclnL5BfX4)
   
   - [Javascript for Absolute Beginners](https://www.udemy.com/javascript-for-absolute-beginners-learn-the-basics/learn/v4/t/lecture/3672096?start=0)
   
-  - [Advanced Javscript Course](https://www.udemy.com/advanced-javascript-course/?siteID=EXclnL5BfX4-U5PkC7TgDJtPFqSKGhu4LA&LSNPUBID=EXclnL5BfX4)
+  - [Advanced Javascript Course](https://www.udemy.com/advanced-javascript-course/?siteID=EXclnL5BfX4-U5PkC7TgDJtPFqSKGhu4LA&LSNPUBID=EXclnL5BfX4)
   
   
 
@@ -148,7 +148,7 @@ Do not buy into the hype, compare them and understand
   
   - [Advanced React with Redux](https://www.udemy.com/react-redux-tutorial/?siteID=EXclnL5BfX4-pBmEkPr3anFUEVT4QKCexA&LSNPUBID=EXclnL5BfX4)
   
-  - [Vue js Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?siteID=EXclnL5BfX4-0vQfH.UnlqTztMpUyUGAsg&LSNPUBID=EXclnL5BfX4)
+  - [Vue Js Guide](https://www.udemy.com/vuejs-2-the-complete-guide/?siteID=EXclnL5BfX4-0vQfH.UnlqTztMpUyUGAsg&LSNPUBID=EXclnL5BfX4)
   
   - [The Ultimate Vue Js course](https://www.udemy.com/vuejs-2-essentials/?siteID=EXclnL5BfX4-f7CoQEohy.KhRTyqOnxYiA&LSNPUBID=EXclnL5BfX4)
 
